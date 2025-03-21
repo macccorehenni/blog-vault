@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "c3ca88e6f638b28f",
+            "id": "979c31cff71a4d3a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,7 +99,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,13 +176,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "bb38a009ad414e1f",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +206,15 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "4d581b43ba67798b",
+  "active": "bb38a009ad414e1f",
   "lastOpenFiles": [
+    "Tags",
     "table-of-contents.md",
     "Tutorials/emacs-pt-1.md",
     "Tutorials",
     "README.md",
     ".md",
     ".md",
-    "01_inbox",
-    "Tags"
+    "01_inbox"
   ]
 }
