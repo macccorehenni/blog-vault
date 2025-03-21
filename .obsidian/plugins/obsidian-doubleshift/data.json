@@ -9,7 +9,7 @@
     },
     {
       "command": "app:open-settings",
-      "key": "Control",
+      "key": "Shift",
       "lastKeyUpTime": 0
     }
   ]

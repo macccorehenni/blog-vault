@@ -1,7 +1,27 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "under-construction",
+      "redirect"
+    ],
+    "settings": {
+      "under-construction": [
+        {
+          "changes": {
+            "icon": "lucide-file-edit",
+            "color": "20, 20, 20"
+          }
+        }
+      ],
+      "redirect": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-up-right",
+            "color": "158, 158, 158"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,

@@ -11,13 +11,32 @@
             "id": "f60f69aa0afe45f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "table-of-contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "table-of-contents"
+            }
+          },
+          {
+            "id": "4d581b43ba67798b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/emacs-pt-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "emacs-pt-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +90,7 @@
             }
           },
           {
-            "id": "c27c094d092c4eab",
+            "id": "c3ca88e6f638b28f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,8 +99,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -119,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -147,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -170,11 +191,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "f60f69aa0afe45f9",
+  "active": "4d581b43ba67798b",
   "lastOpenFiles": [
+    "table-of-contents.md",
+    "Tutorials/emacs-pt-1.md",
+    "Tutorials",
+    "README.md",
+    ".md",
+    ".md",
+    "01_inbox",
     "Tags"
   ]
 }
