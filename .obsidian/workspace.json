@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0baaf20d09b4b375",
+        "id": "693a2d7f9e33fc75",
         "type": "tabs",
         "children": [
           {
-            "id": "06edabc342d3500b",
+            "id": "f60f69aa0afe45f9",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "637f8fdf98947953",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "637f8fdf98947953",
+  "active": "f60f69aa0afe45f9",
   "lastOpenFiles": [
     "Tags"
   ]

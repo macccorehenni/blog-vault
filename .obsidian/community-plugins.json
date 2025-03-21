@@ -1,4 +1,10 @@
 [
   "crumbs-obsidian",
-  "make-md"
+  "make-md",
+  "automatic-table-of-contents",
+  "obsidian-bellboy",
+  "badges",
+  "callout-manager",
+  "obsidian-doubleshift",
+  "flowershow"
 ]
